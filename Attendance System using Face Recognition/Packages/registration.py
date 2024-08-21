@@ -52,7 +52,7 @@ def Registeration(name, id):
         # Loop through detected faces
         for (x, y, w, h) in faces:
             face_detected = True
-            crop_image = frame[y-50:y+h+100, x-50:x+w+100]
+            crop_image = frame[y:y+h, x:x+w]
             resize = cv2.resize(crop_image, (224, 224))
             
             # Draw rectangle and put text
