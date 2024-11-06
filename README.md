@@ -9,7 +9,7 @@ Our group consists of Six dedicated members, each contributing their expertise t
   - **[Arham Khan](https://github.com/arhamkhan779)** (Team Lead)
   - **[Ahmed Islam](https://github.com/Ahmed-Islam-AI)**
   - **[Rida Abid](https://github.com/RidaAbid7/)**
-  - **[touseef Ahmed](https://github.com/t4hmad)**
+  - **[Tauseef Ahmad](https://github.com/t4hmad)**
   - **[Mobeen Mughal](https://www.linkedin.com/in/mobeen-mughal-53463b203/)**
   - **[Muhammad Hamza](https://github.com/mrhamxo)**
 
